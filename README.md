@@ -1,1 +1,1 @@
-<h1>Sebuah Repositori Terkait Pembelajaran API JAvascript dan Postman 😸</h1>
+<h1>Sebuah Repositori Terkait Pembelajaran API,Javascript dan Postman 😸</h1>
